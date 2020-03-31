@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 可齋雜藁
-#+DATE: 2020-03-31 11:34:42.488813
+#+DATE: 2020-03-31 11:34:43.044364
 #+PROPERTY: ID KR4d0339
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 32
 <pb:KR4d0339_WYG_032-1a>¶
 　　欽定四庫全書巻¶
@@ -133,7 +133,7 @@
 　　又(甲辰夀王縂侍)¶
 ¶
 <pb:KR4d0339_WYG_032-6b>¶
-　　北固臺端南渡後來無此偉人自從容佐鼎光華&KR0259;轡¶
+　　北固臺端南渡後來無此偉人自從容佐鼎光華攬轡¶
 幾年中外屬目經綸萬竈炊煙千艘漕雪手整江淮如¶
 掌平詩書效看馬騰士飽酒好兵精平生餘事功名¶
 豈管葛諸人能擬倫暫牙籌㳺戯小淹惟月金甌注想¶
